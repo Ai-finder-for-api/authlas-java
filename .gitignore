@@ -1,0 +1,5 @@
+target/
+build/
+.scratch/
+*.log
+src/main/resources/natives/
