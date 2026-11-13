@@ -15,7 +15,7 @@ This builds the Rust core, compiles the JNI bridge, bundles the native libraries
 ## Use
 
     <dependency>
-      <groupId>io.github.ai-finder-for-api</groupId>
+      <groupId>io.github.quantum-suite-labs</groupId>
       <artifactId>authlas</artifactId>
       <version>0.1.0</version>
     </dependency>
